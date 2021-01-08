@@ -1,5 +1,5 @@
 # My Blog
-Well, here we are yet _again_, writing a blog in a **VS** like a heathen. 
+Well, here we are yet _again_, writing a blog in **VS** like a heathen. 
 
 As Queen Latifah once said:
 >I think I'd be a great mom, honestly. 
